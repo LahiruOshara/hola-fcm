@@ -1,0 +1,32 @@
+.center {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 10%;
+}
+
+.alert {
+    margin-top:7%;
+    margin-right: 3%;
+    margin-left: 70%;
+    padding: 20px;
+    width:20%;
+    background-color: #0072b4;
+    color: white;
+    
+}
+
+.closebtn {
+    margin-top: 10%;
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.closebtn:hover {
+    color: black;
+}
